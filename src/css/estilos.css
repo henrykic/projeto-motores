@@ -93,17 +93,17 @@ body {
   }
   
   .botoes .botao.codepixie.selecionado {
-    box-shadow: 0 0 10px #00ffd9;
+    box-shadow: 0 0 10px #ffea00;
   }
   
   .botoes .botao.hexblade.selecionado {
-    box-shadow: 0 0 10px #00ffd9;
+    box-shadow: 0 0 10px #ffbb00;
   }
   
   .botoes .botao.neonpulse.selecionado {
-    box-shadow: 0 0 10px #00ffd9;
+    box-shadow: 0 0 10px #077799;
   }
   
   .botoes .botao.codebreaker.selecionado {
-    box-shadow: 0 0 10px #00ffd9;
+    box-shadow: 0 0 10px #ffffff;
   }
